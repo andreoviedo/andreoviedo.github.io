@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://harris.uchicago.edu/'>The Harris School of Public Policy</a>. <a href='https://harris.uchicago.edu/'>Chicago CFA Society</a> CHicago CFA Society.
+subtitle: <a href='https://harris.uchicago.edu/'>The Harris School of Public Policy</a>. <a href='https://harris.uchicago.edu/'>Chicago CFA Society</a>.
 
 profile:
   align: right
