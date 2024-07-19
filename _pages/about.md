@@ -14,7 +14,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 My name is Andre Oviedo Mendoza, I am a current Gradute Student at the Master of Public Policy (MPP) program at the Harris School of Public Policy of the University of Chicago. I am original from Peru, have a undergraduate degree in Economics with a mention in Finance. I am also a CFA Charterholder since 2022 and a member of the Chicago CFA Society.
