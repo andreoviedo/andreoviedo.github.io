@@ -35,7 +35,7 @@
       "startDate": "2022-01-01",
       "endDate": "2023-08-31",
       "summary": "The Economic Studies Department is in charge of designing and updating financial policy with a focus on mantaining the stability of the financial system as well as providing quantitative support to new potential policies",
-      "highlights": ["New loan provision framework", "Macroprudential heatmap", "Liquidity stress test", "Quarterly Reports", "Financial Analysis of Financial Institutions" ]
+      "highlights": ["New loan provision framework", "Macroprudential heatmap", "Liquidity stress test", "Medium-enterprise definition", "Quarterly Reports", "Financial Analysis of Financial Institutions", "Data pipeline development"]
     },
     {
       "name": "Superintendency of Banks, Insurance Companies and Pension Funds of Peru",
@@ -43,8 +43,8 @@
       "url": "https://sbs.gob.pe",
       "startDate": "2020-05-01",
       "endDate": "2022-12-31",
-      "summary": "The Credit Risk Supervision team is in charge of ",
-      "highlights": ["New loan provision framework", "Macroprudential heatmap", "Liquidity stress test", "Quarterly Reports", "Financial Analysis of Financial Institutions" ]
+      "summary": "The Credit Risk Supervision team is in charge of supervising scoring models, rating models, stress test models, income predictors, among others, in the financial system",
+      "highlights": ["Default dashboard", "Payment Protection Program (Reactiva) data pipeline", "Extra-situ supervision", "Financial Analysis of Financial Institutions"]
     },
     {
       "name": "Superintendency of Banks, Insurance Companies and Pension Funds of Peru",
@@ -52,8 +52,8 @@
       "url": "https://sbs.gob.pe",
       "startDate": "2018-05-01",
       "endDate": "2020-04-30",
-      "summary": "The Economic Studies Department is in charge of designing and updating financial policy with a focus on mantaining the stability of the financial system as well as providing quantitative support to new potential policies",
-      "highlights": ["New loan provision framework", "Macroprudential heatmap", "Liquidity stress test", "Quarterly Reports", "Financial Analysis of Financial Institutions" ]
+      "summary": "Supervision arm of the Superintendency. Both on-site and remote supervision of banks and other financial institutions.",
+      "highlights": ["R library development", "XGBoost model supervision", "Credit Card Market Dashboard", "Financial Analysis of Financial Institutions" ]
     }
   ],
   "education": [
@@ -66,13 +66,13 @@
       "startDate": "2023-07-21",
       "endDate": "2025-06-03",
       "score": "3.64",
-      "courses": ["Machine Learning", "Program Evaluation", "Advanced Computing for Finance"]
+      "courses": ["Machine Learning (with Python)", "Program Evaluation (with R)", "Advanced Computing for Finance (with C++)", "Advanced Microeconomics", "Advanced Statistics"]
     }
   ],
   "certificates": [
     {
       "name": "Chartered Financial Analyst (CFA)",
-      "date": "2022-05-19",
+      "date": "2022-05  ",
       "issuer": "CFA Institute",
       "url": "https://cfainstitute.com",
       "icon": "fa-solid fa-location-dot"
@@ -84,12 +84,18 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Bayesian Statistics and Decision Making",
+        "Time Series Analysis and Forecasting",
+        "Survival Analysis",
+        "Spatial Statistics",
+        "Network Analysis",
+        "Causal Inference",
+        "Multivariate Analysis",
+        "Nonparametric Statistics",
+        "Experimental Design",
+        "Machine Learning in Statistics",
+        "Anomaly Detection",
+        "Dimensionality Reduction Techniques"
       ]
     },
     {
@@ -97,25 +103,27 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+        "Microeconomics",
+        "Advanced Economic Computing",
+        "Econometrics",
+        "Macroeconometrics",
+        "Strategic FX Decisions"]
     },
     {
       "name": "Finance",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Financial Analysis",
+        "Corporate Finance",
+        "Equity Investments",
+        "Fixed Income",
+        "Derivatives",
+        "Alternative Investments",
+        "Portafolio and Wealth Management",
+        "Risk Management",
+        "Asset Allocation",
+        "Banking Regulation"
       ]
     }
   ],
