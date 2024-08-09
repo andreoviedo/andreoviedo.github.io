@@ -78,7 +78,7 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "skills": [
+  "Coursework": [
     {
       "name": "Statistics",
       "level": "Master",
@@ -144,12 +144,9 @@
       "name": "Computing",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantitative Economics",
+        "Quantitative Financial Analysis",
+        "Financial Research"
       ]
     }
   ]
