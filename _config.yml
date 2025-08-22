@@ -22,14 +22,14 @@ repository               : "andreoviedo/andreoviedo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "André Oviedo, CFA"
-  pronouns         : # example: "she/her"  
-  bio              : "I am a CFA charterholder and a financial analyst with a passion for quantitative finance and machine learning."
+  pronouns         : "he/him"  
+  bio              : "I am a CFA charterholder, University of Chicago graduate, and a financial analyst with a passion for quantitative finance and machine learning."
   location         : "Chicago, IL"
   employer         : "The University of Chicago"
   uri              : "https://www.linkedin.com/in/andreoviedo/"
-  email            : "andreoviedo@gmail.com" 
+  email            : "aroviedom@gmail.com" 
 
   # Academic websites
   academia         : # URL
