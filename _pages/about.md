@@ -21,6 +21,10 @@ redirect_from:
 
 # Interests
 
-
+- Macroeconomics, Financial Markets, Quantitative Research and Development
 
 # Projects
+
+- Financial Instruments with Julia
+- Macroeconomic modelling with Julia and CUDA
+- Financial HPC implementations with CUDA and Julia
