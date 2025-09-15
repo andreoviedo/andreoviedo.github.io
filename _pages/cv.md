@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Public Policy, The University of Chicago, 2025
+* Bachelor of Science in Economics, Universidad del Pacifico, 2017
+
+Additional Education
+======
+* Machine Learning for Economists, Lima School of Economics, 2023
+* MBA/MSc Exchange Program (Erasmus), Leipzig Graduate School of Management, 2016
+* Summer School (Financial Risk), London School of Economics, 2016
 
 Work experience
 ======
