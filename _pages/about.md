@@ -30,4 +30,9 @@ On the academic side of things, I am a big fan of computational methods, quantit
 
 # Teaching Experience
 
-- 
+- PPHA 31002 Statistics for Data Analysis I with R (Harris Core Curriculum)
+- PPHA 30537 Data and Programming I with Python (Data Analytics Concentration)
+- PPHA 30538 Data and Programming II with Python and R (Data Analytics Concentration)
+- PPHA 30545 Machine Learning for Public Policy with Python and R (Data Analytics Concentration)
+- PPHA 34610 Advanced Program Evaluation (Data Analytics Concentration)
+- PPHA 58002 Data Analytics II: Intro to Program Evaluation (EMP Program)
