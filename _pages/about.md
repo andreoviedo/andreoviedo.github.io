@@ -19,7 +19,7 @@ On the academic side of things, I am a big fan of computational methods, quantit
 
 - Financial Markets, Econometrics, Quantitative Research and Development, Big-data, Computational Methods
 
-# Projects
+# Personal Projects
 
 - Introduction to Financial Instruments with Julia (work in progress, inspired by Prof. Pflueger wonderful class on Financial Investments for Public Policy)
 - Extending Computational Modelling with Julia and CUDA (work in progress, inspired by Prof. Salas exceptional class on Perspectives on Computational Modelling for Economics)
@@ -27,6 +27,12 @@ On the academic side of things, I am a big fan of computational methods, quantit
 - Lectures on R for Statistical Analysis
 - Lectures on Python for Statistical Analysis
 - Exercises on Machine Learning with Python and R (inspired by the Statistical Learning coursebook and work by Prof. Clapp and Prof. Levy from the Harris School)
+
+# Academic Projects
+
+- Thoughts on AI ethics and its applications
+- Better together: a analysis of the effect of cosigners on mortgage default rates
+- Pulse: a web-app to manage hospitality events (written using Ruby) 
 
 # Teaching Experience
 
