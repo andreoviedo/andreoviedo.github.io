@@ -15,6 +15,8 @@ for day to day tasks, replacing the inefficient usage of Stata and Excel with a 
 
 On the academic side of things, I am a big fan of computational methods, quantitative finance and econometrics. My undergrad was on Economics with a mention in Finance, I also hold a Masters in Public Policy from the University of Chicago Harris School of Public Policy with a focus on finance, data analytics and quantitative methods, and am a CFA charterholder member of the Chicago CFA Society.
 
+On my free time I like to code (yes, really). I also enjoy football, cycling and motorsports.
+
 # Interests
 
 - Financial Markets, Econometrics, Quantitative Research and Development, Big-data, Computational Methods
