@@ -25,7 +25,7 @@ On my free time I like to code (yes, really). I also enjoy football, cycling and
 
 - Introduction to Financial Instruments with Julia (work in progress, inspired by Prof. Pflueger wonderful class on Financial Investments for Public Policy)
 - Extending Computational Modelling with Julia and CUDA (work in progress, inspired by Prof. Salas exceptional class on Perspectives on Computational Modelling for Economics)
-- Financial HPC implementations with C++, Python, CUDA and Julia
+- [Financial HPC implementations with C++, Python, CUDA and Julia](https://github.com/andreoviedo/finance-hpc-examples)
 - Lectures on R for Statistical Analysis
 - Lectures on Python for Statistical Analysis
 - Exercises on Machine Learning with Python and R (inspired by the Statistical Learning coursebook and work by Prof. Clapp and Prof. Levy from the Harris School)
