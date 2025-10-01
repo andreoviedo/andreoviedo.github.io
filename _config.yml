@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "André's Portfolio"
+title                    : "Welcome to André's Website"
 title_separator          : "-"
 name                     : &name "André Oviedo, CFA"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "AOM.png"
   name             : "Andre Oviedo, CFA"
   pronouns         : "he/him"  
-  bio              : "I am a CFA charterholder, University of Chicago graduate, and financial quantitative developer with a passion for quantitative finance and computational methods."
+  bio              : "I am a CFA charterholder, University of Chicago STEM master's graduate, and financial quantitative developer with a passion for quantitative finance and computational methods."
   location         : "Chicago, IL"
   employer         : "The University of Chicago"
   uri              : "https://www.linkedin.com/in/andreoviedo/"
