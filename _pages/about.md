@@ -33,7 +33,7 @@ On my free time I like to code (yes, really). I also enjoy football, cycling and
 # Academic Projects
 
 - Thoughts on AI ethics and its applications
-- [Better together: a analysis of the effect of cosigners on mortgage default rates](https://github.com/andreoviedo/better_together)
+- [Better together: a analysis of the effect of cosigners on mortgage default rates](https://github.com/andreoviedo/better_together) analyzing more than 9.6M mortgage loans
 - [Pulse: a web-app to manage hospitality events](https://github.com/andreoviedo/pulse_nightlife) (written using Ruby)
 
 # Teaching Experience
